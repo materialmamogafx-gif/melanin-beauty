@@ -1,0 +1,8 @@
+{
+  "name": "Melanin Nail & Beauty Salon",
+  "description": "A premium, luxurious beauty salon in Rocklands, Mangaung, offering high-end nail care, massages, and beauty treatments.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
